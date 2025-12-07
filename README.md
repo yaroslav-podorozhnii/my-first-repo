@@ -10,3 +10,4 @@ razumeti osnovne dele GitHuba.
 
 Zabavna stvar o meni:
 Naredim odličen sendvič v 3 minutah!
+Naredim dober čaj v 1 minuti!
